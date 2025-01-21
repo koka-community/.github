@@ -4,4 +4,6 @@ We should aim for most libraries to have a MIT license by default so that it is 
 
 Anyways, let's start a discussion on community guidelines, expectations, important / desired community libraries [here](https://github.com/koka-lang/koka/discussions/497), and simultaneously we can start building and contributing. 
 
-Let me know if you are interested in contributing!
+Also, if you want to read more info about some less documented features of Koka check our community docs out [here](https://koka-community.github.io/koka-docs/koka-docs.kk.html)
+
+Let one of the community admins know if you are interested in contributing! (Shoot us a message on Discord).
