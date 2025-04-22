@@ -6,4 +6,4 @@ Anyways, let's start a discussion on community guidelines, expectations, importa
 
 Also, if you want to read more info about some less documented features of Koka check our community docs out [here](https://koka-community.github.io/koka-docs/koka-docs.kk.html)
 
-Let one of the community admins know if you are interested in contributing! (Shoot us a message on Discord).
+Let one of the community admins know if you are interested in contributing! (Shoot us a message on Discord https://discord.gg/CEkHHnTqEv).
